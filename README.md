@@ -132,3 +132,4 @@ export default function Gallery(){
 
 ### Praktikum 5
 
+![Screenshot](assets-report/07.png)

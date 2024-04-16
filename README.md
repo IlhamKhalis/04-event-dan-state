@@ -133,3 +133,16 @@ export default function Gallery(){
 ### Praktikum 5
 
 ![Screenshot](assets-report/07.png)
+
+### Praktikum 6
+
+![Screenshot](assets-report/08.png)
+![Screenshot](assets-report/09.png)
+
+1. Apa tujuan dari penulisan ini key={to.email} pada < Chat key={to.email} contact={to} / > ?
+
+membantu mengidentifikasi item mana yang telah berubah, ditambahkan, atau dihapus.
+
+2. Apa fungsi dari props key tersebut?
+
+memastikan bahwa setiap anak dalam daftar memiliki identitas yang unik dan stabil

@@ -1,3 +1,13 @@
+export function Tombol_2({isiPesan, namaTombol}: any){
+    return(
+      <button 
+      className="bg-blue-500 hover:bg-blue-700 text-white p-2 rounded"
+      onClick={() => alert(isiPesan)}>
+        {namaTombol}
+      </button>
+    );
+}
+
 export function Tombol_1({isiPesan, namaTombol}: any){
     function handleClick(){
         alert("Tombol telah ditekan");
